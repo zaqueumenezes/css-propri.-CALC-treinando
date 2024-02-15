@@ -1,3 +1,3 @@
-<h1>easy shopping</h1>
+<h1>Propriedade CALC CSS3</h1>
 <br>
-<h2>Projeto de responsividade, aprende no DevClub</h2>
+<h2>Aprendendo no DevClub</h2>
